@@ -1,0 +1,22 @@
+C:\Capital Bank\bin\Debug\netcoreapp3.1\Capital Bank.exe
+C:\Capital Bank\bin\Debug\netcoreapp3.1\Capital Bank.deps.json
+C:\Capital Bank\bin\Debug\netcoreapp3.1\Capital Bank.runtimeconfig.json
+C:\Capital Bank\bin\Debug\netcoreapp3.1\Capital Bank.runtimeconfig.dev.json
+C:\Capital Bank\bin\Debug\netcoreapp3.1\Capital Bank.dll
+C:\Capital Bank\bin\Debug\netcoreapp3.1\Capital Bank.pdb
+C:\Capital Bank\obj\Debug\netcoreapp3.1\Capital Bank.csprojAssemblyReference.cache
+C:\Capital Bank\obj\Debug\netcoreapp3.1\Capital Bank.AssemblyInfoInputs.cache
+C:\Capital Bank\obj\Debug\netcoreapp3.1\Capital Bank.AssemblyInfo.cs
+C:\Capital Bank\obj\Debug\netcoreapp3.1\Capital Bank.dll
+C:\Capital Bank\obj\Debug\netcoreapp3.1\Capital Bank.pdb
+C:\CapitalBank\bin\Debug\netcoreapp3.1\Capital Bank.exe
+C:\CapitalBank\bin\Debug\netcoreapp3.1\Capital Bank.deps.json
+C:\CapitalBank\bin\Debug\netcoreapp3.1\Capital Bank.runtimeconfig.json
+C:\CapitalBank\bin\Debug\netcoreapp3.1\Capital Bank.runtimeconfig.dev.json
+C:\CapitalBank\bin\Debug\netcoreapp3.1\Capital Bank.dll
+C:\CapitalBank\bin\Debug\netcoreapp3.1\Capital Bank.pdb
+C:\CapitalBank\obj\Debug\netcoreapp3.1\Capital Bank.csprojAssemblyReference.cache
+C:\CapitalBank\obj\Debug\netcoreapp3.1\Capital Bank.AssemblyInfoInputs.cache
+C:\CapitalBank\obj\Debug\netcoreapp3.1\Capital Bank.AssemblyInfo.cs
+C:\CapitalBank\obj\Debug\netcoreapp3.1\Capital Bank.dll
+C:\CapitalBank\obj\Debug\netcoreapp3.1\Capital Bank.pdb
